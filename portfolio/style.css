@@ -113,7 +113,9 @@ hr.rounded {
 }
 
 section{
-	height: 50%;
+	height: auto;
+	min-height: 700px;
+	
 	color: #fff;
 /*	display: flex;
 	justify-content: center;
