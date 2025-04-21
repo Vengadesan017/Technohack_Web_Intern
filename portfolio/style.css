@@ -9,6 +9,7 @@ body{
 	background-color: #000;
 	height: 100hv;
 	width: 100hv;
+	overflow: hidden;
 }
 .body{
 	display: flex;
@@ -112,7 +113,7 @@ hr.rounded {
 }
 
 section{
-	height: 100%;
+	height: 50%;
 	color: #fff;
 /*	display: flex;
 	justify-content: center;
